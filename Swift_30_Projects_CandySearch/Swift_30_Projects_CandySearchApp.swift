@@ -11,7 +11,7 @@ import SwiftUI
 struct Swift_30_Projects_CandySearchApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SearchView()
         }
     }
 }
